@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|c:\\users\\luis\\desktop\\teste\\testapi\\testapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|solutionrelative:testapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|c:\\users\\luis\\desktop\\teste\\testapi\\testapi\\database\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|solutionrelative:testapi\\database\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|c:\\users\\luis\\desktop\\teste\\testapi\\testapi\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|solutionrelative:testapi\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|c:\\users\\luis\\desktop\\teste\\testapi\\testapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|solutionrelative:testapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|c:\\users\\luis\\desktop\\teste\\testapi\\testapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|solutionrelative:testapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|c:\\users\\luis\\desktop\\teste\\testapi\\testapi\\controllers\\meetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E8E36-8536-4723-BA8D-A18702370543}|testAPI\\testAPI.csproj|solutionrelative:testapi\\controllers\\meetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "testAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Models\\User.cs",
+              "RelativeToolTip": "testAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:53:29.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Database\\EFDBContext.cs",
+              "RelativeDocumentMoniker": "testAPI\\Database\\EFDBContext.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Database\\EFDBContext.cs",
+              "RelativeToolTip": "testAPI\\Database\\EFDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:53:08.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meet.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Models\\Meet.cs",
+              "RelativeDocumentMoniker": "testAPI\\Models\\Meet.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Models\\Meet.cs",
+              "RelativeToolTip": "testAPI\\Models\\Meet.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:26:02.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "testAPI\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "testAPI\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:33:13.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "testAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "testAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:48:49.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Controllers\\MeetsController.cs",
+              "RelativeDocumentMoniker": "testAPI\\Controllers\\MeetsController.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\teste\\testAPI\\testAPI\\Controllers\\MeetsController.cs",
+              "RelativeToolTip": "testAPI\\Controllers\\MeetsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:44:50.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
